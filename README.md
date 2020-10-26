@@ -13,6 +13,8 @@
 ---
 *   暂无已知Bug
 
+如果您对这个项目有更好的建议 , 功能上的改进.
+请联系 Telegram : QFJpbmdvMjMz
 
 Graph
 ---
